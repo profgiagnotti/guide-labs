@@ -39,7 +39,7 @@ guide-labs/
 ## 📂 Linguaggi — Linguaggi di programmazione
 
 | Laboratorio | Argomento | Livello |
-|---|---|---|---|---|
+|---|---|---|
 | [XML](./Linguaggi/XML/XML.zip | XML | ⭐ Base |
 | [JSON](./Linguaggi/JSON/JSON.zip) | JSON | ⭐ Base |
 
