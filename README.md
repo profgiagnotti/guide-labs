@@ -3,7 +3,7 @@
 ![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)
 ![Language](https://img.shields.io/badge/lingua-italiano-green?style=flat-square)
 ![Status](https://img.shields.io/badge/status-attivo-brightgreen?style=flat-square)
-![Linguaggi](https://img.shields.io/badge/Linguaggi%203-4%20moduli-3DE8A0?style=flat-square)
+![Linguaggi](https://img.shields.io/badge/Linguaggi%203-3DE8A0?style=flat-square)
 
 Raccolta completa di laboratori tecnici in italiano su **Guide** relative a linguaggi di programmazione, tool e molto altro.  
 Ogni laboratorio è pensato per essere **pratico e completo** — dalla consultazione veloce allo studio approfondito.
