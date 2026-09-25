@@ -40,8 +40,8 @@ guide-labs/
 
 | Laboratorio | Argomento | Livello |
 |---|---|---|---|---|
-| [XML](./Anno-3/Modulo-1/Lezione-1/esercizi-carta-e-penna.md) | Conversioni | ⭐ Base |
-| [JSON](./Anno-3/Modulo-1/Lezione-1/lab-convertitori-basi-numeriche.md) | Conversioni | ⭐ Base |
+| [XML](./Linguaggi/XML/XML.zip | XML | ⭐ Base |
+| [JSON](./Linguaggi/JSON/JSON.zip) | JSON | ⭐ Base |
 
 
 
