@@ -19,14 +19,27 @@ guide-labs/
 │
 ├── Linguaggi/                      ← Linguaggi di programmazione e markup
 │   ├── XML/                        ✅ disponibile
-│   ├── JSON/                       ✅ disponibile│   
+│   ├── JSON/                       ✅ disponibile
 │   └── Python/                     🔜 in arrivo
 │
-├── Tool/                           ← Reti locali e protocolli
+├── Tool/                           ← Tool
 │   ├── Modulo-1/                   🔜 in arrivo
 │   └── Modulo-2/                   🔜 in arrivo
+│  
+│  
+├── Cheatsheet/                     ← Cheatsheet
+│   ├── cybersecurity/              ✅ disponibile
+│   └── networking/                 ✅ disponibile
+│  
+│ 
+├── Sviluppo Web/                    ← Sviluppo Web
+│   ├── API REST in JSON/            ✅ disponibile      
+│   ├── API REST in PHP/             ✅ disponibile     
+│   └── API REST in REACT/           ✅ disponibile       
 │
-└── Esami di maturità/              ← Reti avanzate e livello applicativo
+│  
+│  
+└── Esami di maturità/              ← Esami di maturità
     ├── Modulo-1/                   🔜 in arrivo
     ├── Modulo-2/                   🔜 in arrivo
     └── Modulo-3/                   🔜 in arrivo
@@ -38,12 +51,17 @@ guide-labs/
 
 ## 📂 Linguaggi — Linguaggi di programmazione
 
-| Laboratorio | Argomento | Livello |
+| Guida | Argomento | Livello |
 |---|---|---|
 | [XML](./Linguaggi/XML/XML.zip) | XML | ⭐ Base |
 | [JSON](./Linguaggi/JSON/JSON.zip) | JSON | ⭐ Base |
-
-
+| [API REST in PHP](./SviluppoWeb/WebServicePHP.zip) | PHP | ⭐ Base |
+| [API REST in JSON](./SviluppoWeb/API%20REST%20JSON.zip) | JSON | ⭐ Base |
+| [API REST in REACT](./SviluppoWeb/react-vite-guide.zip) | REACT | ⭐ Base |
+| [Cheatsheet Cyber](./Cheatsheet/cybersecurity/nmap-cheatsheet.md) | NMAP | ⭐ Base |
+| [Cheatsheet Networking](./Cheatsheet/networking-os/Assembly8086/assembly-8086.md) | Assembly 8086 | ⭐ Base |
+| [Cheatsheet Networking](./Cheatsheet/networking-os/cisco/comandi-cisco-ios.md) | CISCO | ⭐ Base |
+| [Cheatsheet Networking](./Cheatsheet/networking-os/linux/comandi-linux.md) | LINUX | ⭐ Base |
 
 ---
 
