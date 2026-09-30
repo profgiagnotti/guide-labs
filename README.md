@@ -53,8 +53,8 @@ guide-labs/
 
 | Guida | Argomento | Livello |
 |---|---|---|
-| [XML](./Linguaggi/XML/XML.zip) | XML | ⭐ Base |
-| [JSON](./Linguaggi/JSON/JSON.zip) | JSON | ⭐ Base |
+| [XML](./Linguaggi/XML/Esempi-XML.zip) | XML | ⭐ Base |
+| [JSON](./Linguaggi/JSON/Esempi-JSON.zip) | JSON | ⭐ Base |
 | [API REST in PHP](./SviluppoWeb/WebServicePHP.zip) | PHP | ⭐ Base |
 | [API REST in JSON](./SviluppoWeb/API%20REST%20JSON.zip) | JSON | ⭐ Base |
 | [API REST in REACT](./SviluppoWeb/react-vite-guide.zip) | REACT | ⭐ Base |
