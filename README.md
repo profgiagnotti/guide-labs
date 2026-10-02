@@ -62,7 +62,16 @@ guide-labs/
 | [Cheatsheet Networking](./Cheatsheet/networking-os/Assembly8086/assembly-8086.md) | Assembly 8086 | ⭐ Base |
 | [Cheatsheet Networking](./Cheatsheet/networking-os/cisco/comandi-cisco-ios.md) | CISCO | ⭐ Base |
 | [Cheatsheet Networking](./Cheatsheet/networking-os/linux/comandi-linux.md) | LINUX | ⭐ Base |
-
+| [React-JS](./SviluppoWeb/react-vite-guide/lab-01-setup-ambiente.md) | REACT-JS | ⭐⭐ Intermedio |
+| [React-JS](./SviluppoWeb/react-vite-guide/lab-02-componenti-jsx.md) | REACT-JS | ⭐⭐ Intermedio |
+| [React-JS](./SviluppoWeb/react-vite-guide/lab-03-state-hooks.md) | REACT-JS | ⭐⭐ Intermedio |
+| [React-JS](./SviluppoWeb/react-vite-guide/lab-04-styling.md) | REACT-JS | ⭐⭐ Intermedio |
+| [React-JS](./SviluppoWeb/react-vite-guide/lab-05-routing.md) | REACT-JS | ⭐⭐ Intermedio |
+| [React-JS](./SviluppoWeb/react-vite-guide/lab-06-api-rest.md) | REACT-JS | ⭐⭐ Intermedio |
+| [React-JS](./SviluppoWeb/react-vite-guide/lab-07-express-backend.md) | REACT-JS | ⭐⭐ Intermedio |
+| [React-JS](./SviluppoWeb/react-vite-guide/lab-08-fullstack.md) | REACT-JS | ⭐⭐ Intermedio |
+| [React-JS](./SviluppoWeb/react-vite-guide/lab-09-auth-jwt.md) | REACT-JS | ⭐⭐ Intermedio |
+| [React-JS](./SviluppoWeb/react-vite-guide/lab-10-deploy.md) | REACT-JS | ⭐⭐ Intermedio |
 ---
 
 ## 🤝 Come contribuire
