@@ -63,10 +63,8 @@ Hai trovato un errore o vuoi aggiungere un laboratorio?
 
 ## 🔗 Risorse correlate
 
-- 🌐 **Sito:** [profgiagnotti.it](https://profgiagnotti.it)
+- 🌐 **Sito:** [profgiagnotti.altervista.org](https://profgiagnotti.altervista.org)
 - ▶️ **YouTube:** [youtube.com/@profgiagnotti](https://youtube.com/@profgiagnotti)
-- 💬 **Discord:** [Unisciti alla community](https://discord.gg/profgiagnotti)
-- 📬 **Newsletter:** [profgiagnotti.it/newsletter](https://profgiagnotti.it/newsletter)
 
 ---
 
