@@ -1,6 +1,6 @@
 # 🐧 Comandi Linux — Cheatsheet Completo
 
-> **Prof. Giagnotti** · [profgiagnotti.it](https://profgiagnotti.it)
+> **Prof. Giagnotti** · [profgiagnotti.altervista.org](https://profgiagnotti.altervista.org)
 > Livello: ⭐ Base → ⭐⭐⭐ Avanzato · Aggiornato: 2026
 
 ---
@@ -428,4 +428,4 @@ crontab -l                     # lista crontab
 
 ---
 
-*⬅️ [Torna all'indice dei Cheatsheet](../README.md)*
+

@@ -1,6 +1,6 @@
 # 🌐 Comandi Cisco IOS — Cheatsheet Completo
 
-> **Prof. Giagnotti** · [profgiagnotti.it](https://profgiagnotti.it)
+> **Prof. Giagnotti** · [profgiagnotti.altervista.org](https://profgiagnotti.altervista.org)
 > Livello: ⭐⭐ Medio · Testato su: IOS 15.x / IOS-XE · Aggiornato: 2026
 
 ---
@@ -476,11 +476,9 @@ show users                     # utenti connessi
 
 ## 📖 Risorse Correlate
 
-- 📝 Articolo completo: [profgiagnotti.it/blog/networking-os/cisco-ios-guida](https://profgiagnotti.it)
-- ▶️ Video tutorial: [youtube.com/@profgiagnotti](https://youtube.com/@profgiagnotti)
-- 💬 Domande: [Discord Prof. Giagnotti](https://discord.gg/profgiagnotti)
+
+
 - 🔗 Documentazione ufficiale: [cisco.com/c/en/us/support](https://cisco.com/c/en/us/support)
 
 ---
 
-*⬅️ [Torna all'indice dei Cheatsheet](../README.md)*

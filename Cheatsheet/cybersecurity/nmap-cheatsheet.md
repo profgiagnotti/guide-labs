@@ -1,6 +1,6 @@
 # 🔍 Nmap — Cheatsheet Completo
 
-> **Prof. Giagnotti** · [profgiagnotti.it](https://profgiagnotti.it)
+> **Prof. Giagnotti** · [profgiagnotti.altervista.org](https://profgiagnotti.altervista.org)
 > Livello: ⭐ Base → ⭐⭐⭐ Avanzato · Versione Nmap: 7.x · Aggiornato: 2025
 
 > ⚠️ **Avviso legale:** usare Nmap solo su reti e sistemi di cui si è proprietari o per cui si ha esplicita autorizzazione scritta. La scansione non autorizzata è illegale.
@@ -438,12 +438,10 @@ Uptime guess: 2.134 days
 
 ## 📖 Risorse Correlate
 
-- 📝 Articolo completo: [profgiagnotti.it/blog/cybersecurity/nmap-guida-completa](https://profgiagnotti.it)
-- ▶️ Video tutorial Lab #01: [youtube.com/@profgiagnotti](https://youtube.com/@profgiagnotti)
-- 💬 Domande: [Discord Prof. Giagnotti](https://discord.gg/profgiagnotti)
+
 - 🔗 Documentazione ufficiale: [nmap.org/docs](https://nmap.org/docs.html)
 - 🔗 NSE Script Database: [nmap.org/nsedoc](https://nmap.org/nsedoc/)
 
 ---
 
-*⬅️ [Torna all'indice dei Cheatsheet](../README.md)*
+

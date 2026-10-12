@@ -1,6 +1,6 @@
 # 🖥️ Assembly 8086 — Cheatsheet Completo
 
-> **Prof. Giagnotti** · [profgiagnotti.it](https://profgiagnotti.it)
+> **Prof. Giagnotti** · [profgiagnotti.altervista.org](https://profgiagnotti.altervista.org)
 > Livello: ⭐ Base → ⭐⭐⭐ Avanzato · Aggiornato: 2026
 
 ---
@@ -765,13 +765,12 @@ funzione ENDP
 
 ## 📖 Risorse Correlate
 
-- 📝 Lezioni complete: [profgiagnotti.it](https://profgiagnotti.it)
-- 📦 Esercizi .asm: [profgiagnotti.it/risorse](https://profgiagnotti.it/download/14004/?tmstv=1773162807)
+- 📝 Lezioni complete: [profgiagnotti.altervista.org](https://profgiagnotti.altervista.org)
+- 📦 Esercizi .asm: [Esercizi .asm](https://github.com/profgiagnotti/networking-labs/blob/ba24764c5c0d27c8eb7bb22a770397364160631c/Anno-3/Modulo-2/Lezione-8/Esercizi_Assembly_8086)
 - 🔗 x86 Assembly Guide (UVA): [cs.virginia.edu/~evans/cs216/guides/x86.html](https://www.cs.virginia.edu/~evans/cs216/guides/x86.html)
 - 🔗 Intel x86 Reference (Wikibooks): [en.wikibooks.org/wiki/X86_Assembly](https://en.wikibooks.org/wiki/X86_Assembly)
 - 🛠️ Godbolt — Compiler Explorer: [godbolt.org](https://godbolt.org)
-- 💬 Domande: [Discord Prof. Giagnotti](https://discord.gg/profgiagnotti)
 
 ---
 
-*⬅️ [Torna all'indice dei Cheatsheet](../README.md)*
+
