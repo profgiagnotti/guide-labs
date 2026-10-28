@@ -56,22 +56,22 @@ guide-labs/
 | [XML](./Linguaggi/XML/Esempi-XML.zip) | XML | ⭐ Base |
 | [JSON](./Linguaggi/JSON/Esempi-JSON.zip) | JSON | ⭐ Base |
 | [API REST in PHP](./SviluppoWeb/WebServicePHP.zip) | PHP | ⭐ Base |
-| [API REST in JSON](./SviluppoWeb/API%20REST%20JSON.zip) | JSON | ⭐ Base |
+| [API REST in JSON](./SviluppoWeb/API_REST_JSON.zip) | JSON | ⭐ Base |
 | [API REST in REACT](./SviluppoWeb/react-vite-guide.zip) | REACT | ⭐ Base |
 | [Cheatsheet Cyber](./Cheatsheet/cybersecurity/nmap-cheatsheet.md) | NMAP | ⭐ Base |
 | [Cheatsheet Networking](./Cheatsheet/networking-os/Assembly8086/assembly-8086.md) | Assembly 8086 | ⭐ Base |
 | [Cheatsheet Networking](./Cheatsheet/networking-os/cisco/comandi-cisco-ios.md) | CISCO | ⭐ Base |
 | [Cheatsheet Networking](./Cheatsheet/networking-os/linux/comandi-linux.md) | LINUX | ⭐ Base |
-| [React-JS](./SviluppoWeb/react-vite-guide/lab-01-setup-ambiente.md) | REACT-JS | ⭐⭐ Intermedio |
-| [React-JS](./SviluppoWeb/react-vite-guide/lab-02-componenti-jsx.md) | REACT-JS | ⭐⭐ Intermedio |
-| [React-JS](./SviluppoWeb/react-vite-guide/lab-03-state-hooks.md) | REACT-JS | ⭐⭐ Intermedio |
-| [React-JS](./SviluppoWeb/react-vite-guide/lab-04-styling.md) | REACT-JS | ⭐⭐ Intermedio |
-| [React-JS](./SviluppoWeb/react-vite-guide/lab-05-routing.md) | REACT-JS | ⭐⭐ Intermedio |
-| [React-JS](./SviluppoWeb/react-vite-guide/lab-06-api-rest.md) | REACT-JS | ⭐⭐ Intermedio |
-| [React-JS](./SviluppoWeb/react-vite-guide/lab-07-express-backend.md) | REACT-JS | ⭐⭐ Intermedio |
-| [React-JS](./SviluppoWeb/react-vite-guide/lab-08-fullstack.md) | REACT-JS | ⭐⭐ Intermedio |
-| [React-JS](./SviluppoWeb/react-vite-guide/lab-09-auth-jwt.md) | REACT-JS | ⭐⭐ Intermedio |
-| [React-JS](./SviluppoWeb/react-vite-guide/lab-10-deploy.md) | REACT-JS | ⭐⭐ Intermedio |
+| [L01 - React-JS](./SviluppoWeb/react-vite-guide/lab-01-setup-ambiente.md) | REACT-JS | ⭐⭐ Intermedio |
+| [L02 - React-JS](./SviluppoWeb/react-vite-guide/lab-02-componenti-jsx.md) | REACT-JS | ⭐⭐ Intermedio |
+| [L03 - React-JS](./SviluppoWeb/react-vite-guide/lab-03-state-hooks.md) | REACT-JS | ⭐⭐ Intermedio |
+| [L04 - React-JS](./SviluppoWeb/react-vite-guide/lab-04-styling.md) | REACT-JS | ⭐⭐ Intermedio |
+| [L05 - React-JS](./SviluppoWeb/react-vite-guide/lab-05-routing.md) | REACT-JS | ⭐⭐ Intermedio |
+| [L06 - React-JS](./SviluppoWeb/react-vite-guide/lab-06-api-rest.md) | REACT-JS | ⭐⭐ Intermedio |
+| [L07 - React-JS](./SviluppoWeb/react-vite-guide/lab-07-express-backend.md) | REACT-JS | ⭐⭐ Intermedio |
+| [L08 - React-JS](./SviluppoWeb/react-vite-guide/lab-08-fullstack.md) | REACT-JS | ⭐⭐ Intermedio |
+| [L09 - React-JS](./SviluppoWeb/react-vite-guide/lab-09-auth-jwt.md) | REACT-JS | ⭐⭐ Intermedio |
+| [L10 - React-JS](./SviluppoWeb/react-vite-guide/lab-10-deploy.md) | REACT-JS | ⭐⭐ Intermedio |
 ---
 
 ## 🤝 Come contribuire
