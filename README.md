@@ -20,12 +20,7 @@ guide-labs/
 ├── Linguaggi/                      ← Linguaggi di programmazione e markup
 │   ├── XML/                        ✅ disponibile
 │   ├── JSON/                       ✅ disponibile
-│   └── Python/                     🔜 in arrivo
 │
-├── Tool/                           ← Tool
-│   ├── Modulo-1/                   🔜 in arrivo
-│   └── Modulo-2/                   🔜 in arrivo
-│  
 │  
 ├── Cheatsheet/                     ← Cheatsheet
 │   ├── cybersecurity/              ✅ disponibile
@@ -36,13 +31,7 @@ guide-labs/
 │   ├── API REST in JSON/            ✅ disponibile      
 │   ├── API REST in PHP/             ✅ disponibile     
 │   └── API REST in REACT/           ✅ disponibile       
-│
-│  
-│  
-└── Esami di maturità/              ← Esami di maturità
-    ├── Modulo-1/                   🔜 in arrivo
-    ├── Modulo-2/                   🔜 in arrivo
-    └── Modulo-3/                   🔜 in arrivo
+
     
 
 ```
@@ -62,16 +51,7 @@ guide-labs/
 | [Cheatsheet Networking](./Cheatsheet/networking-os/Assembly8086/assembly-8086.md) | Assembly 8086 | ⭐ Base |
 | [Cheatsheet Networking](./Cheatsheet/networking-os/cisco/comandi-cisco-ios.md) | CISCO | ⭐ Base |
 | [Cheatsheet Networking](./Cheatsheet/networking-os/linux/comandi-linux.md) | LINUX | ⭐ Base |
-| [L01 - React-JS](./SviluppoWeb/react-vite-guide/lab-01-setup-ambiente.md) | REACT-JS | ⭐⭐ Intermedio |
-| [L02 - React-JS](./SviluppoWeb/react-vite-guide/lab-02-componenti-jsx.md) | REACT-JS | ⭐⭐ Intermedio |
-| [L03 - React-JS](./SviluppoWeb/react-vite-guide/lab-03-state-hooks.md) | REACT-JS | ⭐⭐ Intermedio |
-| [L04 - React-JS](./SviluppoWeb/react-vite-guide/lab-04-styling.md) | REACT-JS | ⭐⭐ Intermedio |
-| [L05 - React-JS](./SviluppoWeb/react-vite-guide/lab-05-routing.md) | REACT-JS | ⭐⭐ Intermedio |
-| [L06 - React-JS](./SviluppoWeb/react-vite-guide/lab-06-api-rest.md) | REACT-JS | ⭐⭐ Intermedio |
-| [L07 - React-JS](./SviluppoWeb/react-vite-guide/lab-07-express-backend.md) | REACT-JS | ⭐⭐ Intermedio |
-| [L08 - React-JS](./SviluppoWeb/react-vite-guide/lab-08-fullstack.md) | REACT-JS | ⭐⭐ Intermedio |
-| [L09 - React-JS](./SviluppoWeb/react-vite-guide/lab-09-auth-jwt.md) | REACT-JS | ⭐⭐ Intermedio |
-| [L10 - React-JS](./SviluppoWeb/react-vite-guide/lab-10-deploy.md) | REACT-JS | ⭐⭐ Intermedio |
+| [React-JS](./SviluppoWeb/react-vite-guide/README.md) | REACT-JS | ⭐⭐ Intermedio |
 ---
 
 ## 🤝 Come contribuire
@@ -85,10 +65,12 @@ Hai trovato un errore o vuoi aggiungere un laboratorio?
 
 ---
 
-## 🔗 Risorse correlate
+## 🔗 Seguimi
 
-- 🌐 **Sito:** [profgiagnotti.altervista.org](https://profgiagnotti.altervista.org)
-- ▶️ **YouTube:** [youtube.com/@profgiagnotti](https://youtube.com/@profgiagnotti)
+- 🌐 **Sito web:** [prof giagnotti](https://profgiagnotti.altervista.org)
+- ▶️ **YouTube:** [Youtube](https://youtube.com/@profgiagnotti)
+- 💼 **LinkedIn:** [linkedin](https://www.linkedin.com/in/mariogiagnotti/)
+- ⓕ **Facebook** [Facebook](https://www.facebook.com/profgiagnotti.it)
 
 ---
 
