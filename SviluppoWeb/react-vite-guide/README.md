@@ -36,7 +36,7 @@ sviluppoWeb-labs/
 
 ### Servizi Web - labs
 
-| Laboratorio | Argomento | Guida di riferimento | | Livello |
+| Laboratorio | Argomento | Guida di riferimento | Livello |
 |---|---|---|---|
 | [Setup ambiente](lab-01-setup-ambiente.md) | Setup dell'ambiente di sviluppo | [Lezione 01](https://profgiagnotti.altervista.org/blog-react-vite-nodejs-l01-introduzione/) | ⭐ Base |
 | [Componenti JSX](lab-02-componenti-jsx.md) | Componenti Vite | [Lezione 02](https://profgiagnotti.altervista.org/lezione-2-web-app-con-react-vite-nodejs-componenti-jsx/) | ⭐ Base |
