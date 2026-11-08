@@ -67,7 +67,7 @@ Hai trovato un errore o vuoi aggiungere un laboratorio?
 
 ## 🔗 Seguimi
 
-- 🌐 **Sito web:** [prof giagnotti](https://profgiagnotti.altervista.org)
+- 🌐 **Sito web:** [prof giagnotti](https://profgiagnotti.it)
 - ▶️ **YouTube:** [Youtube](https://youtube.com/@profgiagnotti)
 - 💼 **LinkedIn:** [linkedin](https://www.linkedin.com/in/mariogiagnotti/)
 - ⓕ **Facebook** [Facebook](https://www.facebook.com/profgiagnotti.it)

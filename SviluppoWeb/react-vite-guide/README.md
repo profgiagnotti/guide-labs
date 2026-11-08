@@ -38,16 +38,16 @@ sviluppoWeb-labs/
 
 | Laboratorio | Argomento | Guida di riferimento | Livello |
 |---|---|---|---|
-| [Setup ambiente](lab-01-setup-ambiente.md) | Setup dell'ambiente di sviluppo | [Lezione 01](https://profgiagnotti.altervista.org/blog-react-vite-nodejs-l01-introduzione/) | ⭐ Base |
-| [Componenti JSX](lab-02-componenti-jsx.md) | Componenti Vite | [Lezione 02](https://profgiagnotti.altervista.org/lezione-2-web-app-con-react-vite-nodejs-componenti-jsx/) | ⭐ Base |
-| [State hooks](lab-03-state-hooks.md) | State Hooks | [Lezione 03](https://profgiagnotti.altervista.org/lezione-3-stato-e-interattivita-con-hooks/) | ⭐ Base |
-| [Styling](lab-04-styling.md) | Stile | [Lezione 4](https://profgiagnotti.altervista.org/lezione-4-styling/) | ⭐⭐ Intermedio |
-| [Routing](lab-05-routing.md) | Routing | [Lezione 05](https://profgiagnotti.altervista.org/lezione-5-routing/) | ⭐⭐ Intermedio |
-| [API Rest](lab-06-api-rest.md) | API Rest | [Lezione 06](https://profgiagnotti.altervista.org/lezione-6-api-rest/) | ⭐⭐ Intermedio |
-| [Express Backend](lab-07-express-backend.md) | Backend | [Lezione 07](https://profgiagnotti.altervista.org/lezione-7-express-backend/) | ⭐⭐ Intermedio |
-| [Full stack](lab-08-fullstack.md) | Full stack | [Lezione 08](https://profgiagnotti.altervista.org/lezione-8-connettere-frontend-e-backend/) | ⭐⭐ Intermedio |
-| [Autorizzazione con JWT](lab-09-auth-jwt.md) | Autorizzazione JWT | [Lezione 09](https://profgiagnotti.altervista.org/lezione-9-autenticazione-base-con-jwt/) | ⭐⭐ Intermedio |
-| [Deploy](lab-10-deploy.md) | Deploy | [Lezione 10](https://profgiagnotti.altervista.org/lezione-10-deploy-vercel-render/) | ⭐⭐ Intermedio |
+| [Setup ambiente](lab-01-setup-ambiente.md) | Setup dell'ambiente di sviluppo | [Lezione 01](https://profgiagnotti.it/blog-react-vite-nodejs-l01-introduzione/) | ⭐ Base |
+| [Componenti JSX](lab-02-componenti-jsx.md) | Componenti Vite | [Lezione 02](https://profgiagnotti.it/lezione-2-web-app-con-react-vite-nodejs-componenti-jsx/) | ⭐ Base |
+| [State hooks](lab-03-state-hooks.md) | State Hooks | [Lezione 03](https://profgiagnotti.it/lezione-3-stato-e-interattivita-con-hooks/) | ⭐ Base |
+| [Styling](lab-04-styling.md) | Stile | [Lezione 4](https://profgiagnotti.it/lezione-4-styling/) | ⭐⭐ Intermedio |
+| [Routing](lab-05-routing.md) | Routing | [Lezione 05](https://profgiagnotti.it/lezione-5-routing/) | ⭐⭐ Intermedio |
+| [API Rest](lab-06-api-rest.md) | API Rest | [Lezione 06](https://profgiagnotti.it/lezione-6-api-rest/) | ⭐⭐ Intermedio |
+| [Express Backend](lab-07-express-backend.md) | Backend | [Lezione 07](https://profgiagnotti.it/lezione-7-express-backend/) | ⭐⭐ Intermedio |
+| [Full stack](lab-08-fullstack.md) | Full stack | [Lezione 08](https://profgiagnotti.it/lezione-8-connettere-frontend-e-backend/) | ⭐⭐ Intermedio |
+| [Autorizzazione con JWT](lab-09-auth-jwt.md) | Autorizzazione JWT | [Lezione 09](https://profgiagnotti.it/lezione-9-autenticazione-base-con-jwt/) | ⭐⭐ Intermedio |
+| [Deploy](lab-10-deploy.md) | Deploy | [Lezione 10](https://profgiagnotti.it/lezione-10-deploy-vercel-render/) | ⭐⭐ Intermedio |
 ---
 
 ## 🤝 Come contribuire
@@ -63,7 +63,7 @@ Hai trovato un errore o vuoi aggiungere un laboratorio?
 
 ## 🔗 Seguimi
 
-- 🌐 **Sito web:** [prof giagnotti](https://profgiagnotti.altervista.org)
+- 🌐 **Sito web:** [prof giagnotti](https://profgiagnotti.it)
 - ▶️ **YouTube:** [Youtube](https://youtube.com/@profgiagnotti)
 - 💼 **LinkedIn:** [linkedin](https://www.linkedin.com/in/mariogiagnotti/)
 - ⓕ **Facebook** [Facebook](https://www.facebook.com/profgiagnotti.it)
